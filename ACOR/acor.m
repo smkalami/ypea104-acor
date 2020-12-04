@@ -116,6 +116,10 @@ for it = 1:MaxIt
             
         end
         
+        % Apply Variable Bounds
+        newpop(t).Position = max(newpop(t).Position, VarMin);
+        newpop(t).Position = min(newpop(t).Position, VarMax);
+        
         % Evaluation
         newpop(t).Cost = CostFunction(newpop(t).Position);
         
