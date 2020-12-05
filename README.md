@@ -1,7 +1,7 @@
 # Ant Colony Optimization for Continuous Domains (ACOR) in MATLAB
 
-<p align = "center">
-    <img src = "https://yarpiz.com/wp-content/uploads/2015/09/ypea104-acor.jpg" alt = "Ant Colony Optimization for Continuous Domains (ACOR) in MATLAB">
+<p align="center">
+    <img src="https://yarpiz.com/wp-content/uploads/2015/09/ypea104-acor.jpg" alt="Ant Colony Optimization for Continuous Domains (ACOR) in MATLAB">
 </p>
 
 This is an implementation of Ant Colony Optimization for Continuous Domains (ACOR) in MATLAB.
