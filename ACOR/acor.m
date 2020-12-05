@@ -27,7 +27,7 @@ nVar = 10;             % Number of Decision Variables
 VarSize = [1 nVar];   % Variables Matrix Size
 
 VarMin = -10;         % Decision Variables Lower Bound
-VarMax =  10;         % Decision Variables Upper Bound
+VarMax = 10;         % Decision Variables Upper Bound
 
 %% ACOR Parameters
 
